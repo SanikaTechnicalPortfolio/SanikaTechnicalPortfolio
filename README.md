@@ -1,6 +1,5 @@
 ---
-
-**Hi I am Sanika**
+## Hi I am Sanika
 
 Welcome! This showcases a collection of my technical writing samples, highlighting experience in creating clear, user-focused documentation for diverse industries and complex products.
 
