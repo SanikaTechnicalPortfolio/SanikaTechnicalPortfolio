@@ -74,19 +74,7 @@ SNDT University, Pune
 
 ## 🚀 Featured Projects
 
-> _Add your favorite or highlighted projects here!_  
-> For example:  
-> - [Project Name](#) — Brief description of the project and your role.
-
----
-
-## 🌐 Connect with Me
-
-> _Add your social links, portfolio, or contact info here!_  
-> For example:  
-> - [LinkedIn](#)  
-> - [Portfolio Website](#)  
-> - [Email](#)  
+> -(https://github.com/SanikaTechnicalPortfolio/Technical-Writing-Projects.git).
 
 ---
 
